@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 17px;
+}
+header{
+    box-shadow:rgb(33 35 38 / 26%) 0px 14px 14px -10px;
+}
+p{
+    text-align: center;
+    color: #3b506c;
+    font-size: 20px;
+}
+.continar{
+    width: 90%;
+    margin: auto;
+}
+.nav-main{
+  
+   display: flex;
+   justify-content: space-between;
+   padding: 30px 0px;
+   align-items: center;
+}
+
+.nav-main {}
+.nav-main image{}
+nav{}
+nav ul{
+    margin: 0;
+    padding: 0;
+    
+}
+nav ul li{
+    display: inline;
+    padding: 0 0 0 40px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #3b506c;
+    font-weight: 600;
+    font-size: 18px;
+   
+}
+.banner{
+    text-align: center;
+    margin: 50px 0 50px 0 ;
+}
+.banner img{
+    width: 50%;
+    margin: auto;
+    padding: 0 0 0 0;
+}
+.banner h1{
+    font-size: 60px;
+    color: #3b506c;
+    margin: 0 0 0 0;
+}
+.banner p{
+    font-size: 20px;
+}
+.main{
+    color: #0c66ff;
+}
+.perent{
+    display: flex;
+    text-align: right;
+    width: 38%;
+    padding: 25px;
+}
+.child1{
+    font-size: 40px;
+color: red;
+padding: 0 0 0 0;
+}
+.child2{
+    color:#3b506c ;
+    font-size: 40px;
+}
+.numberr{
+    padding: 0 30px 0 0 ;
+}
+.mother{
+    display: flex;
+    padding: 0 0;
+    margin: 40px 0 0 0;
+  justify-content: space-around;
+}
+.mother img{
+    width: 300px;
+  
+}
+.one{
+    width: 33.33%;
+    float: left;
+    padding: 20px 0 0 0 ;
+    margin: 0 15px 0 ;
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.103) ;
+    box-shadow: rgb(94 94 104 / 23%) 0px 7px 29px 0px;
+}
+.two{
+    width: 33.33%;
+    float:center;
+    padding: 20px 0 0 0 ;
+    margin: 0 15px 0 ;
+    text-align: center;
+     background-color: rgba(0, 128, 0, 0.116);
+    box-shadow: rgb(94 94 104 / 23%) 0px 7px 29px 0px;
+}
+
+
+.three{
+    width: 33.33%;
+    float: right;
+    padding: 20px 0 0 0 ;
+    margin: 0 15px 0 ;
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.126);
+    box-shadow: rgb(94 94 104 / 23%) 0px 7px 29px 0px;
+}
+.mother p{
+    font-size: 15px;
+}
+.chang:hover{
+    transition: all 0.5s ease;
+    background-color: rgba(255, 255, 0, 0.144);
+    box-shadow: rgba(53, 53, 152, 0.363) 0px 7px 29px 0px;
+}
+footer{
+    background-color: rgba(97, 92, 92, 0.132);
+    padding: 50px 0 400px 0;
+    margin: 40px 0 0 0;
+}
+.main{
+    
+}
+.base{
+    width: 25%;
+    padding: 0 0 0 0 ;
+    float: left;
+}
+.base h3{
+    font-size: 25px;
+    text-align: left;
+    color: #3b506c;
+}
+.base ul{
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+.base ul a{
+    text-decoration: none;
+}
+.base ul li{
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #3b506c;
+}
